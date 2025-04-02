@@ -15,6 +15,7 @@ todolist/service/InitDbService.class
 todolist/config/ModelMapperConfig.class
 todolist/repository/UsuarioRepository.class
 todolist/controller/TareaController.class
+todolist/controller/HomeController.class
 todolist/dto/RegistroData.class
 todolist/service/TareaServiceException.class
 todolist/model/Usuario.class
