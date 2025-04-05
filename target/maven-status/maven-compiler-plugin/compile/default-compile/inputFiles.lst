@@ -3,6 +3,7 @@
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/model/Tarea.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/repository/UsuarioRepository.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/model/Usuario.java
+/home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/controller/HomeController.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/authentication/ManagerUserSession.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/repository/TareaRepository.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/service/TareaService.java
