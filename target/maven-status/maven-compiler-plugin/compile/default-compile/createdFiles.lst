@@ -4,6 +4,7 @@ todolist/controller/exception/UsuarioNoLogeadoException.class
 todolist/dto/TareaData.class
 todolist/model/Tarea.class
 todolist/Application.class
+todolist/controller/UserController.class
 todolist/controller/exception/TareaNotFoundException.class
 todolist/controller/LoginController.class
 todolist/service/UsuarioService$LoginStatus.class
