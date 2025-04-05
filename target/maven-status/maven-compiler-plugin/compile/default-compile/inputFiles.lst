@@ -7,6 +7,7 @@
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/authentication/ManagerUserSession.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/repository/TareaRepository.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/service/TareaService.java
+/home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/controller/UserController.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/config/ModelMapperConfig.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/service/InitDbService.java
 /home/andres/Escritorio/p2-todolist-app/p2-todolist-app/src/main/java/todolist/controller/exception/TareaNotFoundException.java
